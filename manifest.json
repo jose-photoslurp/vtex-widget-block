@@ -1,9 +1,9 @@
 {
-  "vendor": "vtex",
-  "name": "countdown",
+  "vendor": "photoslurpvisualcommerce",
+  "name": "widget",
   "version": "0.0.1",
-  "title": "Countdown",
-  "description": "Countdown component",
+  "title": "Widget",
+  "description": "Widget component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "vtex.styleguide": "9.x",
-    "vtex.css-handles": "0.x"
+    "vtex.css-handles": "0.x",
+    "vtex.product-context": "0.x",
+    "vtex.render-runtime": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

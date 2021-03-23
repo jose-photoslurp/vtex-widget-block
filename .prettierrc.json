@@ -1,0 +1,4 @@
+{
+  "extends": "@vtex/prettier-config",
+  "semi": true
+}

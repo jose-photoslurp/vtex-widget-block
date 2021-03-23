@@ -1,4 +1,4 @@
 {
-  "editor.countdown.title": "Countdown",
-  "editor.countdown.description": "Countdown component"
+  "editor.widget.title": "Photoslurp Widget",
+  "editor.widget.description": "Component to integrate the Photoslurp Widget"
 }

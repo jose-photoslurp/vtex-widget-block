@@ -1,5 +1,5 @@
 {
-  "countdown": {
-    "component": "Countdown"
+  "widget": {
+    "component": "Widget"
   }
 }
